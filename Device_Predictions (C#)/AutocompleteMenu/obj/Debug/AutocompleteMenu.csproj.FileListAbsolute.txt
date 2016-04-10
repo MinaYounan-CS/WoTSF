@@ -1,0 +1,7 @@
+C:\Projects_CSharp\AutocompleteMenu\AutocompleteMenu\bin\Debug\AutocompleteMenu.dll
+C:\Projects_CSharp\AutocompleteMenu\AutocompleteMenu\bin\Debug\AutocompleteMenu.pdb
+C:\Projects_CSharp\AutocompleteMenu\AutocompleteMenu\obj\Debug\AutocompleteMenu.dll
+C:\Projects_CSharp\AutocompleteMenu\AutocompleteMenu\obj\Debug\AutocompleteMenu.pdb
+C:\Projects_CSharp\AutocompleteMenu\AutocompleteMenu\obj\Debug\AutocompleteMenuNS.AutocompleteMenu.resources
+C:\Projects_CSharp\AutocompleteMenu\AutocompleteMenu\obj\Debug\AutocompleteMenu.csproj.GenerateResource.Cache
+C:\Projects_CSharp\AutocompleteMenu\AutocompleteMenu\obj\Debug\AutocompleteMenu.csprojResolveAssemblyReference.cache

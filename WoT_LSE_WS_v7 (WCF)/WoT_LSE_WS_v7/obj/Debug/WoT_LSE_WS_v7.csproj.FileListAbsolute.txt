@@ -1,0 +1,12 @@
+C:\Users\Mina\Documents\Visual Studio 2010\Projects\Master_WoT_WS\WoT_LSE_WS_v7\WoT_LSE_WS_v7\bin\WoT_LSE_WS_v7.dll
+C:\Users\Mina\Documents\Visual Studio 2010\Projects\Master_WoT_WS\WoT_LSE_WS_v7\WoT_LSE_WS_v7\bin\WoT_LSE_WS_v7.pdb
+C:\Users\Mina\Documents\Visual Studio 2010\Projects\Master_WoT_WS\WoT_LSE_WS_v7\WoT_LSE_WS_v7\obj\Debug\WoT_LSE_WS_v7.dll
+C:\Users\Mina\Documents\Visual Studio 2010\Projects\Master_WoT_WS\WoT_LSE_WS_v7\WoT_LSE_WS_v7\obj\Debug\WoT_LSE_WS_v7.pdb
+C:\Users\Mina\Documents\Visual Studio 2010\Projects\Master_WoT_WS\WoT\WoT_LSE_WS_v7\WoT_LSE_WS_v7\bin\WoT_LSE_WS_v7.dll
+C:\Users\Mina\Documents\Visual Studio 2010\Projects\Master_WoT_WS\WoT\WoT_LSE_WS_v7\WoT_LSE_WS_v7\bin\WoT_LSE_WS_v7.pdb
+C:\Users\Mina\Documents\Visual Studio 2010\Projects\Master_WoT_WS\WoT\WoT_LSE_WS_v7\WoT_LSE_WS_v7\obj\Debug\WoT_LSE_WS_v7.dll
+C:\Users\Mina\Documents\Visual Studio 2010\Projects\Master_WoT_WS\WoT\WoT_LSE_WS_v7\WoT_LSE_WS_v7\obj\Debug\WoT_LSE_WS_v7.pdb
+D:\Master Files\Codes _2014\Web Services\WoT_LSE_WS_v7\WoT_LSE_WS_v7\bin\WoT_LSE_WS_v7.dll
+D:\Master Files\Codes _2014\Web Services\WoT_LSE_WS_v7\WoT_LSE_WS_v7\bin\WoT_LSE_WS_v7.pdb
+D:\Master Files\Codes _2014\Web Services\WoT_LSE_WS_v7\WoT_LSE_WS_v7\obj\Debug\WoT_LSE_WS_v7.dll
+D:\Master Files\Codes _2014\Web Services\WoT_LSE_WS_v7\WoT_LSE_WS_v7\obj\Debug\WoT_LSE_WS_v7.pdb

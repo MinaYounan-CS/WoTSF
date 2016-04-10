@@ -1,0 +1,10 @@
+SELECT        device_id, date_day, probability, state, URL FROM            WoT_01 UNION
+SELECT        device_id, date_day, probability, state, URL FROM            WoT_02 UNION
+SELECT        device_id, date_day, probability, state, URL FROM            WoT_03 UNION
+SELECT        device_id, date_day, probability, state, URL FROM            WoT_04 UNION
+SELECT        device_id, date_day, probability, state, URL FROM            WoT_05 UNION
+SELECT        device_id, date_day, probability, state, URL FROM            WoT_06 UNION
+SELECT        device_id, date_day, probability, state, URL FROM            WoT_07 UNION
+SELECT        device_id, date_day, probability, state, URL FROM            WoT_08 UNION
+SELECT        device_id, date_day, probability, state, URL FROM            WoT_09 UNION
+SELECT        device_id, date_day, probability, state, URL FROM            WoT_10

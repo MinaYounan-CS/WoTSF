@@ -1,0 +1,14 @@
+How to run package (Steps):
+--------------------------------------------
+1- attach database file to sqlserver express 2008 
+2- modify conncection strings according to your server name in each application
+3- run WoT_LSE_WS_v7 application at first for loading web services
+4- run Device Predictions
+---------------------------------------------------------------------------
+thanks for using our application: 
+1- M. Younan, S. Khattab, and R. Bahgat, "A Framework for Searching in the Web of Things," in infos2016 : The 10th International Conference on Informatics and Systems, Cairo, Egypt, May, 2016.
+
+for more details read the following papers and cite them: 
+1- M. Younan, S. Khattab, and R. Bahgat, "An Integrated Testbed Environment for the Web of Things," in ICNS 2015 : The Eleventh International Conference on Networking and Services, ISBN: 978-1-61208-404-6, Rome, Italy, May, 2015, pp. 69-78.
+2- M. Younan, S. Khattab, and R. Bahgat, "Evaluation of an Integrated Testbed Environment for The Web of Things," in IntSys15v8n34 : International Journal On Advances in Intelligent Systems, vol. 8, no. 3&4, Nov. 2015.
+
